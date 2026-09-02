@@ -5,6 +5,10 @@
 ### 🐸 GO FROG - Vertical-oriented game made with Pyxel, Pyxel製の縦型ゲーム
 [PLAY](https://okapping.github.io/GO_FROG/)
 
+### 🐚 SH-RUNNER - Shell script execution app built with Pyxel, Pyxel製のシェルスクリプト実行アプリ
+[github](https://github.com/okapping/SH-RUNNER)
+※Please clone and build it. cloneしてビルドしてね
+
 ### 🧶 Yarn Holder - Yarn management app for iOS and iPadOS, iOS,ipadOS用毛糸管理アプリ
 [Download](https://apps.apple.com/jp/app/yarn-holder/id6756721966)
 
