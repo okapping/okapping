@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there 👋 こんにちは！
+趣味でなんか作っています。
+
+## Products 作品集
+### 🐸 GO FROG - Vertical-oriented game made with Pyxel, Pyxel製の縦型ゲーム
+[PLAY](https://okapping.github.io/GO_FROG/)
+
+### 🧶 Yarn Holder - Yarn management app for iOS and iPadOS, iOS,ipadOS用毛糸管理アプリ
+[Download](https://apps.apple.com/jp/app/yarn-holder/id6756721966)
+
+
+
 
 <!--
 **okapping/okapping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
