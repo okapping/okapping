@@ -3,9 +3,12 @@
 趣味でなんか作っています。
 
 ## Products
+### Ios Applications
+- [🧶 Yarn Holder](https://apps.apple.com/jp/app/yarn-holder/id6756721966) - Yarn management app for iOS and iPadOS, iOS,ipadOS用毛糸管理アプリ
+### Pyxel Games
 - [🐸 GO FROG](https://okapping.github.io/GO_FROG/) - Vertical-oriented game made with Pyxel, Pyxel製の縦型ゲーム
 - [🐚 SH-RUNNER](https://github.com/okapping/SH-RUNNER) - Shell script execution app built with Pyxel, Pyxel製のシェルスクリプト実行アプリ
-- [🧶 Yarn Holder](https://apps.apple.com/jp/app/yarn-holder/id6756721966) - Yarn management app for iOS and iPadOS, iOS,ipadOS用毛糸管理アプリ
+### Others
 - [json-dot-preview](https://github.com/okapping/json-dot-preview) - This is a VS Code extension that converts JSON strings consisting of 0s and 1s into pixel art., 0と1のjson文字列をドット絵に変換するvscode拡張機能です。
 
 <!--
